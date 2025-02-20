@@ -86,7 +86,7 @@ npx hardhat verify --network crossfi YOUR_CONTRACT_ADDRESS
 ```bash
 /web3-reputation-score
 │── /frontend          # Next.js DApp
-│── /backend           # Smart Contracts (Solidity)
+│── /blockchain           # Smart Contracts (Solidity)
 │── /scripts           # Deployment & Utility Scripts
 │── /screenshots       # Screenshots for README
 │── README.md          # Full Documentation
