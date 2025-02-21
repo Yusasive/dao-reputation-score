@@ -7,8 +7,8 @@ async function main() {
 
   console.log("ReputationScore contract deployed at:", reputationScore.target);
 }
-
 main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
+ 
